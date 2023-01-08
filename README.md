@@ -3,7 +3,7 @@
 # Tela Acessar do Projeto
 
 <a href="#">
-<img align="center"  alt="jonas-Layout" height ="500" width ="400" src ="https://user-images.githubusercontent.com/25933386/211210107-313cf4f2-a6a1-49dd-a3f3-ddeac43cf21c.JPG"></img>
+<img align="center"  alt="jonas-Layout" height ="500" width ="700" src ="https://user-images.githubusercontent.com/25933386/211210107-313cf4f2-a6a1-49dd-a3f3-ddeac43cf21c.JPG"></img>
 </a>
 
 # Tela Principal do Projeto
